@@ -1,0 +1,18 @@
+﻿
+
+Wymagania do projektu:
+
+1.Możliwość odczytywania kodów kreskowych z produktów 
+
+2.Łączność z bazą danych w urządzeniu lub w chmurze
+
+3.Możliwość oceniania produktów
+
+4.Możliwość robienia i przechowywania zdjęć 
+
+5.Sprawdzenie czy dany produkt już był zakupiony przez nas w przeszłości
+
+//6.Opcja podzielenia się swoją opinią na portalu społecznościowym
+
+//7.Dodanie opisu słownego dodawanego przy zdjęciu 
+i opisu "zaawansowanego"zapisywanego w bazie danych
