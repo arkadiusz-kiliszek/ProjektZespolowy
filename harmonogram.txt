@@ -1,0 +1,8 @@
+Grudzieñ - dopracowanie prototypu
+-widoki
+-funkcja skanowania kodu
+-
+
+Styczeñ - szkielet aplikacji
+Luty - stworzenie bazy danych
+Marzec - zaimplementowanie funkcjonalnoœci
