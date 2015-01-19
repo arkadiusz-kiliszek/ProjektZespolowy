@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Browary</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dodaj_piwo">DodajPiwo</string>
+    <string name="title_activity_sprawdz_piwa">SprawdzPiwa</string>
+    <string name="title_activity_przegladaj_piwa">PrzegladajPiwa</string>
+    <string name="title_activity_dodaj_opis">DodajOpis</string>
+    <string name="title_activity_dodaj_zdjecie">DodajZdjecie</string>
+    <string name="title_activity_ocen_piwo">OcenPiwo</string>
+    <string name="title_activity_zeskanuj_kod">ZeskanujKod</string>
+    <string name="title_activity_szukaj_piwo">SzukajPiwo</string>
+
+</resources>
