@@ -1,8 +1,12 @@
-Grudzieñ - dopracowanie prototypu
+GrudzieÅ„ - dopracowanie prototypu
 -widoki
 -funkcja skanowania kodu
 -
 
-Styczeñ - szkielet aplikacji
+StyczeÅ„ - szkielet aplikacji
 Luty - stworzenie bazy danych
-Marzec - zaimplementowanie funkcjonalnoœci
+Marzec - zaimplementowanie dodawania do bazy danych "browarkow" i skanera kodÃ³w
+Kwiecien - zaimplementowanie listy piw oraz wyszukiwnia "piwerek" w bazie danych
+maj - zaimplementowanie listy TOP 10 piw jakich mamy w bazie
+czerwiec - zaprojektowanie i wykonanie wyglÄ…du aplikacji 
+
